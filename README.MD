@@ -2,6 +2,8 @@
 
 This is a ready-to-use framework template based on Cypress with integrated libraries and project structure for implementing automated tests using Gherkin and the JSON Model Pattern (similar to the Page Object Model). The framework also includes integrated OAUTH2 implementation.
 
+Feel free to adapt it into your project.
+
 ## Setup Instructions
 
 ### 1. Install Node.js
